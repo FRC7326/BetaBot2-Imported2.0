@@ -24,7 +24,7 @@ public class Robot extends TimedRobot {
   public void robotInit() {
     c0.setClosedLoopControl(true);
     //CameraServer.getInstance().startAutomaticCapture();
-    //server = CameraServer.getInstance();gf
+    //server = CameraServer.getInstance();
     //server.startAutomaticCapture(cameras0);
   }
   public void SwitchCams() {
